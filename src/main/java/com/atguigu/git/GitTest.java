@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello jetour");
         System.out.println("hello exeed");
         System.out.println("111");
+        System.out.println("push test!");
     }
 }
